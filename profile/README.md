@@ -9,7 +9,7 @@ Aqui estão alguns dos projetos e repositórios que estou utilizando para meus e
 
 - [Fundamentals](https://github.com/RubyMastery/fundamentals): Exemplos e resoluções de exercícios básicos e intermediarios para aprender Ruby.
 - [CodeChallenges](https://github.com/RubyMastery/code_challenges): Projetos intermediários que aplicam conceitos mais avançados de Ruby.
-- [classes and objects](https://github.com/RubyMastery/classes-and-objects): Projetos que me ajudaram a fixar os conceitos de orientação a objetos com ruby.
+- [Classes and Objects](https://github.com/RubyMastery/classes-and-objects): Projetos que me ajudaram a fixar os conceitos de orientação a objetos com ruby.
 
 Contato
 Se você deseja entrar em contato comigo para discutir Ruby, compartilhar ideias ou colaborar em algum projeto, você pode me encontrar em:
